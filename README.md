@@ -1,4 +1,4 @@
-# Go gRPC GraphQL Microservices
+# E-commerce microservices
 
 This project demonstrates a small microservices architecture built with Go, gRPC, GraphQL, PostgreSQL, Elasticsearch, and Docker Compose.
 
