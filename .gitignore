@@ -1,0 +1,25 @@
+# Binaries and build output
+bin/
+dist/
+build/
+*.exe
+*.out
+*.test
+
+# Go workspace and dependency cache
+vendor/
+go.work
+
+# Runtime and local configuration
+.env
+.env.*
+*.log
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Local tooling metadata
+.agents/
+.codex/

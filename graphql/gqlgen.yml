@@ -1,0 +1,8 @@
+schema: schema.graphql
+
+models:
+  Account:
+    model: github.com/Enigma044/e-commerce-microservices/graphql.Account
+    fields:
+      orders:
+        resolver: true
